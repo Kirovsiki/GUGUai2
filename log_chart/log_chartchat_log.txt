@@ -1,0 +1,5 @@
+id:localHuman	text:yes I like ,what is your name>	labels:my name is guguai . what is your name ?
+id:localHuman	text:my name is steven	labels:nice to meet you steven . what do you like to do for fun ?
+id:localHuman	text:i want chart with you 	labels:i like to read chart books .
+id:localHuman	text:cool,who are you 	labels:i am guguai . what is your name ?	episode_done:True
+
